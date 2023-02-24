@@ -1,0 +1,43 @@
+
+
+
+.Gameinfo{
+    position:relative;
+    border: 1px solid black;
+    display:flex;
+    right: 300px    ;
+    
+}
+.genres{
+    position: relative;
+    border: 1px solid black;
+    display: flexbox;
+    float: right;
+    bottom: 150px;
+    margin: -50 60 10 10;
+    
+
+}
+.foto img{
+    position: relative;
+    display: flex;
+    border: 1px solid black;    
+    float: left;
+    padding: 1  0px 10px ;
+    top: 50px;
+    margin: 2px;
+
+}
+.baktomaten{
+    position: relative;
+    border: 1px solid black;
+    display: flexbox;
+    top:  300px;  
+    right: 300px 
+      
+}
+img{
+
+    width: 300px;
+    height: 250px;
+}
